@@ -7,4 +7,9 @@ public class calculator{
 		result=x-y;
 		return result;
 	}
+
+	double addition(double x,double y){
+		double result = x + y;
+		return result;
+	}
 }
